@@ -15,8 +15,6 @@ namespace Ejercicio1
             Coche miCoche = new Coche();
             miCoche.Add();
             Console.WriteLine(miCoche.puertas);
-
-            Console.ReadLine();
         }
 
         static int Sum (int a, int b, int c)
